@@ -1,0 +1,14 @@
+C:\Users\MediaMonster\source\repos\keylogger\keylogger\bin\Debug\keylogger.exe.config
+C:\Users\MediaMonster\source\repos\keylogger\keylogger\bin\Debug\keylogger.exe
+C:\Users\MediaMonster\source\repos\keylogger\keylogger\bin\Debug\keylogger.pdb
+C:\Users\MediaMonster\source\repos\keylogger\keylogger\obj\Debug\keylogger.csprojAssemblyReference.cache
+C:\Users\MediaMonster\source\repos\keylogger\keylogger\obj\Debug\keylogger.csproj.CoreCompileInputs.cache
+C:\Users\MediaMonster\source\repos\keylogger\keylogger\obj\Debug\keylogger.exe
+C:\Users\MediaMonster\source\repos\keylogger\keylogger\obj\Debug\keylogger.pdb
+C:\Users\MediaMonster\Desktop\Me\keylogger\keylogger\bin\Debug\keylogger.exe.config
+C:\Users\MediaMonster\Desktop\Me\keylogger\keylogger\bin\Debug\keylogger.exe
+C:\Users\MediaMonster\Desktop\Me\keylogger\keylogger\bin\Debug\keylogger.pdb
+C:\Users\MediaMonster\Desktop\Me\keylogger\keylogger\obj\Debug\keylogger.csprojAssemblyReference.cache
+C:\Users\MediaMonster\Desktop\Me\keylogger\keylogger\obj\Debug\keylogger.csproj.CoreCompileInputs.cache
+C:\Users\MediaMonster\Desktop\Me\keylogger\keylogger\obj\Debug\keylogger.exe
+C:\Users\MediaMonster\Desktop\Me\keylogger\keylogger\obj\Debug\keylogger.pdb

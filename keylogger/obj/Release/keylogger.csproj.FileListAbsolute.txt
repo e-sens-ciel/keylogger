@@ -1,0 +1,7 @@
+C:\Users\MediaMonster\Desktop\Me\keylogger\keylogger\bin\Release\keylogger.exe.config
+C:\Users\MediaMonster\Desktop\Me\keylogger\keylogger\bin\Release\keylogger.exe
+C:\Users\MediaMonster\Desktop\Me\keylogger\keylogger\bin\Release\keylogger.pdb
+C:\Users\MediaMonster\Desktop\Me\keylogger\keylogger\obj\Release\keylogger.csprojAssemblyReference.cache
+C:\Users\MediaMonster\Desktop\Me\keylogger\keylogger\obj\Release\keylogger.csproj.CoreCompileInputs.cache
+C:\Users\MediaMonster\Desktop\Me\keylogger\keylogger\obj\Release\keylogger.exe
+C:\Users\MediaMonster\Desktop\Me\keylogger\keylogger\obj\Release\keylogger.pdb
